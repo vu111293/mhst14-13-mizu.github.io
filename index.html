@@ -28,6 +28,107 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h3>
+<a name="meeting-minute-2" class="anchor" href="#meeting-minute-2"><span class="octicon octicon-link"></span></a>Meeting Minute 2</h3>
+
+<p><strong>Thời gian</strong>: Chủ nhật, ngày 25/05/2014 - 19h30 – 20h35</p>
+
+<p><strong>Thành phần tham dự</strong>: anh Quân, Khoái, Nam, Hùng, Huy</p>
+
+<p><strong>Địa điểm</strong>: Qua Skype</p>
+
+<p><strong>Mục đích</strong>:</p>
+
+<ul>
+<li>Gặp gỡ làm quen giữa anh Quân và các thành viên của đội</li>
+<li>Thống nhất lịch họp và phương thức làm việc</li>
+<li>Phân tích bài toán</li>
+<li>Thống nhất chức năng và các công nghệ sử dụng</li>
+</ul><p><strong>Nội dung cuộc họp</strong>:</p>
+
+<ul>
+<li>Thống nhất lịch họp và phương thức làm việc:
+
+<ul>
+<li>Fix lịch họp là tối Chủ nhật hàng tuần vào lúc 19h30 (GMT+7), nếu anh Quân có việc bận thì có thể chuyển sang một ngày khác</li>
+<li>Hình thức họp online qua Skype.</li>
+<li>Nội dung cuộc họp giống như hôm qua đã thống nhất với anh Hưng, cần làm ít nhất các việc:
+
+<ul>
+<li>Báo cáo tiến độ, trong tuần vừa qua đã làm được những gì.</li>
+<li>Đưa ra các vấn đề mắc phải (sẽ gửi email sớm trước buổi họp), cùng mentor tìm phương hướng giải quyết.</li>
+<li>Lên các công việc cần làm trong tuần này.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Ý tưởng và phân tích bài toán
+
+<ul>
+<li>Ý tưởng và các module do anh Quân đưa là:
+
+<ul>
+<li>Đưa phần mềm Zim xuống mobile phone, với tính năng càng khớp với Zim desktop càng nhiều càng tốt:
+
+<ul>
+<li>Hiển thị nội dung từ Wiki format. Hỗ trợ link giữa các note y như "wiki" thứ thiệt.</li>
+<li>Cho phép tổ chức các note theo cấu trúc cây (note mẹ, note con)</li>
+<li>Cho phép format text thông qua menu lệnh, thanh công cụ, dành cho ai ngại học thuộc cú pháp wiki.</li>
+<li>Hỗ trợ hệ thống plugin.</li>
+<li>Giữ được các "core plugins" của Zim desktop, ưu tiên các plugin ko phụ thuộc vào các chương trình ngoài (có 1 số plugin của Zim desktop phụ thuộc vào GraphViz để vẽ biểu đồ, ta ko cần hỗ trợ ngay vì có thể nó không có trên mobile phone).</li>
+</ul>
+</li>
+<li>Hỗ trợ đồng bộ note qua cloud.
+
+<ul>
+<li>Thêm tính năng quản lý các phiên bản của note qua những lần sửa đổi. Tuy nhiên, ta không cần người dùng cuối thấy được các danh sách phiên bản này. Nó sẽ ẩn vì chỉ để phục vụ đồng bộ cũng như giải quyết conflict thôi. Ta sẽ xây dựng specification trước rồi implement sau. Đề ra phương pháp giải quyết conflict khi đồng bộ. Các nguồn có thể tham khảo: Tomboy Notes (trước đây có tính năng đồng bộ qua Ubuntu One), Git/Hg/Bazaar.</li>
+<li>Xây dựng web server cho việc đồng bộ. Tạo các RESTful API cho việc trao đổi với client từ desktop và mobile.</li>
+<li>Thêm tính năng đồng bộ này vào Zim desktop. Có thể thêm vào dưới dạng 1 plugin.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Sau khi họp, cả đội thống nhất chung sẽ tập trung và đặt việc hỗ trợ đồng bộ hóa và versioning cho Zim làm module chính, còn port sang Mobile là module có thể sẽ phát triển sau khi đã hoàn thành module chính.</li>
+</ul>
+</li>
+<li>Thống nhất các công nghệ sử dụng:
+
+<ul>
+<li>Tìm hiểu mô hình quản lý phiên bản của Git/Hg/Bazaar (2 cái sau cũng viết bằng Python).</li>
+<li>Tìm hiểu tính năng synchronization của Tomboy Notes. Xem Tomboy Notes có hỗ trợ quản lý phiên bản hay chỉ đơn giản là copy file.</li>
+<li>Dùng ngôn ngữ/framework nào cho webserver? Nếu dùng PHP, ta có nên tham khảo và xây dựng dựa trên ownCloud? Ngoài ra trước đây Tomboy Notes có 1 webserver, tên Snowy, viết bằng Python-Django nhưng còn thô sơ và source code đã thất lạc.</li>
+</ul>
+</li>
+<li>Training:
+
+<ul>
+<li>Tập sử dụng Zim desktop với subpage, link, format bằng Wiki syntax. Quan sát các file Zim tạo ra.</li>
+<li>Tập sử dụng Git. Cố ý tạo ra conflict.</li>
+<li>Tập viết app Python đơn giản. Tập viết 1 plugin đơn giản cho Zim. Tìm hiểu thêm về GTK.</li>
+<li>Training về webserver, tùy vào việc chọn xây dựng webserver bằng PHP hay Python.</li>
+<li>Dự kiến sẽ training trong ít nhất 1 tuần đến 10 ngày để tạo background công nghệ trước dự án:
+
+<ul>
+<li>Làm quen với Zim on desktop: 2 ngày</li>
+<li>Tập thao tác với github: khoảng 3 ngày</li>
+<li>Tập viết app bằng Python : 3 ngày (Viết một app calculator chỉ dùng phép cộng, trừ)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Các thông tin bổ sung:
+
+<ul>
+<li>Tham khảo API Twittter: <a href="https://dev.twitter.com/docs/api/1.1">https://dev.twitter.com/docs/api/1.1</a>
+</li>
+<li>Tham khảo Mandrill: <a href="https://mandrillapp.com/api/docs/messages.JSON.html">https://mandrillapp.com/api/docs/messages.JSON.html</a>
+</li>
+<li>Tham khảo plugin cho Zim viết bằng python: <a href="http://bazaar.launchpad.net/%7Ejaap.karssenberg/zim/pyzim/view/head:/zim/plugins/arithmetic.py">http://bazaar.launchpad.net/~jaap.karssenberg/zim/pyzim/view/head:/zim/plugins/arithmetic.py</a>
+</li>
+<li>Tìm hiểu về GTK: <a href="http://www.gtk.org">http://www.gtk.org</a>
+</li>
+</ul>
+</li>
+</ul><h3>
 <a name="meeting-minute-1" class="anchor" href="#meeting-minute-1"><span class="octicon octicon-link"></span></a>Meeting Minute 1</h3>
 
 <p><strong>Thời gian</strong>: Thứ 7, ngày 24/05/2014 - 16h-18h21 (GMT+7)</p>
