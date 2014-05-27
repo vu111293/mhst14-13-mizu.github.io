@@ -34,8 +34,8 @@ JB :
     font-awesome :
       css : //cdn.bootcss.com/font-awesome/4.0.3/css/font-awesome.min.css
     bootstrap :
-      js : //cdn.bootcss.com/twitter-bootstrap/3.1.1/js/bootstrap.min.js
-      css : //cdn.bootcss.com/twitter-bootstrap/3.1.1/css/bootstrap.min.css
+      js : //netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js
+      css : //netdna.bootstrapcdn.com/bootswatch/3.1.1/cerulean/bootstrap.min.css
     fancybox :
       js : //cdn.bootcss.com/fancybox/2.1.5/jquery.fancybox.min.js
       css : //cdn.bootcss.com/fancybox/2.1.5/jquery.fancybox.min.css

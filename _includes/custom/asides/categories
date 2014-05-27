@@ -1,9 +1,13 @@
       <section>
-        <h4>Categories</h4>
-        <div class="tag_box">
-          <ul>
-          {% assign categories_list = site.categories %}
-          {% include JB/categories_list %} 
-          </ul>
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Categories
+            </div>
+            <div class="panel-body">
+                <ul>
+                    {% assign categories_list = site.categories %}
+                    {% include JB/categories_list %} 
+                </ul>
+            </div>
         </div>
       </section>
