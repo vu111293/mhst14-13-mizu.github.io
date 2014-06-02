@@ -3,7 +3,7 @@ layout: post
 author: Pham Xuan Khoai
 title: Report 1st week
 category: Conference
-tags: [meeting]
+tags: [report, meeting]
 ---
 **Thời gian**: Thứ 2, ngày 02/06/2014 - 10h30 (GMT+7)
 
