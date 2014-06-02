@@ -9,13 +9,13 @@ tags: [report, meeting]
 
 **Người báo cáo**: Phạm Xuân Khoái
 
-**Mục đích:**
+**Mục đích**:
 * Báo cáo công việc tuần qua
 * Kế hoạch trong tuần tới: Training.
 
 <!-- more -->
 
-**Nội dung:**
+**Nội dung**:
 
 * Báo cáo tiến độ làm việc trong tuần qua: Nhóm đã hoàn thành đề cương và gửi cho BTC.
 
@@ -31,6 +31,6 @@ tags: [report, meeting]
   - Bài tập:
     + Lập trình một mini calculator chỉ dùng phép cộng, trừ với Python
     
-**Lưu ý:**
+**Lưu ý**:
   - Vì một số công việc cá nhân đến từ 2 bên: anh Quân và thành viên của nhóm, mà tuần này không có cuộc họp qua skype giữa anh Quân và các thành viên nhóm.
   - Nội dung report trên dựa theo nội dung email trao đổi giữa anh Quân và nhóm vào tối ngày 01/06/2014.
