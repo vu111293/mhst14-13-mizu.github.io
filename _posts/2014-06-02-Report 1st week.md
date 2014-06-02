@@ -26,7 +26,7 @@ tags: [report, meeting]
     + Tìm hiểu từ phía người phát triển, tìm hiểu tất cả mã của Zim để có đủ dữ kiện dựng nên cái nhìn tổng quan về cấu trúc của cả bộ phần mềm. Mặc dù chỉ làm 1 plugin, nhưng phải đảm bảo nó không được làm gãy đổ các tính năng khác, và phải biết "cắm" nó vào chỗ nào của Zim, phải gọi những hàm đã có của Zim ra sao. Khi mới bắt đầu làm thì mình chưa có đủ khả năng để nhìn toàn bộ Zim, nhưng càng làm, mình sẽ dần phát sinh nhu cầu đọc chỗ này, đọc chỗ kia trong toàn bộ Zim để tìm cái mà mình cần, thành thử là mình sẽ phải đọc hết, và dần dần hiểu được cấu trúc tổng quát của nó.
   - Python: Cần tìm hiểu các phần mềm đã có sẵn, họ tổ chức quản lý phiên bản như thế nào, họ định nghĩa những trường dữ liệu nào. Mình cần học hỏi từ họ, chọn giữa các cách làm đó cái nào phù hợp nhất, hoặc là mình thấy thích nhất, và áp dụng cho cái của mình.
   
-  - Ngoài ra, về vấn đề RESTful API nên có mặt mũi thế nào cho phù hợp với bối cảnh đồng bộ hóa, có thể tham khảo [API của CouchDB] (http://wiki.apache.org/couchdb/HTTP_Document_API)
+  - Ngoài ra, về vấn đề RESTful API nên có mặt mũi thế nào cho phù hợp với bối cảnh đồng bộ hóa, có thể tham khảo [API của CouchDB](http://wiki.apache.org/couchdb/HTTP_Document_API)
   
   - Bài tập:
     + Lập trình một mini calculator chỉ dùng phép cộng, trừ với Python
