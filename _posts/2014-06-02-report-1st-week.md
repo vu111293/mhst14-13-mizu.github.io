@@ -32,5 +32,5 @@ tags: [report, meeting]
     + Lập trình một mini calculator chỉ dùng phép cộng, trừ với Python
     
 **Lưu ý**:
-  - Vì một số công việc cá nhân đến từ 2 bên: anh Quân và thành viên của nhóm, mà tuần này không có cuộc họp qua skype giữa anh Quân và các thành viên nhóm.
+  - Vì một số công việc cá nhân đến từ 2 bên: anh Quân và thành viên của nhóm, mà tuần này không có cuộc họp qua Skype giữa anh Quân và các thành viên nhóm.
   - Nội dung report trên dựa theo nội dung email trao đổi giữa anh Quân và nhóm vào tối ngày 01/06/2014.
