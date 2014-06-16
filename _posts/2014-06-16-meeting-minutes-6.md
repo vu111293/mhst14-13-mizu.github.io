@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Khoaipx
+author: khoaipx
 title: Meeting Minutes 6
 category: Conference
 tags: [meeting]
@@ -30,19 +30,25 @@ tags: [meeting]
 **Nội dung cuộc họp**:
 
 * Báo cáo quá trình học tập, training:
+
   - Python:
+
     + Khoái: Đang học python, code được một số chương trình nhỏ, đã hoàn thành bài tập làm một mini-calculator với 2 phép tính cộng trừ.
-    + Huy: Đang tìm hiểu về python, đã từng học một chút khi tham gia website http://brilliant.org/
+
+    + Huy: Đang tìm hiểu về python, đã từng học một chút khi tham gia website (http://brilliant.org/)
+
     + Hùng: Đang tìm hiểu về python
+
   - Ubutu:
+
     Cả nhóm đã cài đặt Ubutu 14.04
 
   - Github:
     + Cả nhóm đã tham gia một buổi training về git và github do anh Nam đứng lớp. Đã có thể tạo một repository demo để thực hành:
       
-      https://github.com/khoaipx/15-06-guide
+      (https://github.com/khoaipx/15-06-guide)
 
-      https://github.com/khoaipx/15-06-guide
+      (https://github.com/khoaipx/15-06-guide)
 
     + Sẽ có tiếp một buổi training nữa vào tối thứ Hai, ngày 16/06/2014.
 
@@ -55,6 +61,7 @@ tags: [meeting]
       Phát triển tiếp calculator với phép nhân, phép chia, xử lý dấu ngoặc. Bài tập này được giao cho Hùng.
 
     + Bài tập Scan ảnh:
+
       - Viết 1 script để quét các file JPG trong đó, và sắp xếp vào các thư mục con, nhóm theo ngày tháng chụp ảnh, đồng thời đổi đuôi file từ chữ hoa sang chữ thường.
 
       - Chương trình chạy phải nhận tham số như sau:
@@ -66,6 +73,7 @@ tags: [meeting]
       Ví dụ: có file Photos/DSC0001.JPG chụp ngày 3/4/2014 thì sẽ đưa nó vào Photos/2014/04/03/DSC0001.jpg
 
   + Bài tập tìm kiếm số điện thoại:
+
       Cho 1 thư mục chứa đầy các file vCard (danh bạ điện thoại), trong đó có thể có những vCard chứa trùng số điện thoại. Viết script để lục tìm số điện thoại trùng và liệt kê ra file trùng.
 
       Ví dụ:
@@ -98,14 +106,14 @@ tags: [meeting]
 
   - Tổng hợp các tài liệu tham khảo trong quá trình training:
 
-      http://www.diveintopython.net/toc/index.html
+      (http://www.diveintopython.net/toc/index.html)
 
-      http://docs.python-guide.org/en/latest/
+      (http://docs.python-guide.org/en/latest/)
 
-      https://docs.python.org/2.7/tutorial/index.html
+      (https://docs.python.org/2.7/tutorial/index.html)
 
-      https://docs.python.org/2.7/library/index.html
+      (https://docs.python.org/2.7/library/index.html)
 
-      https://docs.python.org/2.7/howto/index.html
+      (https://docs.python.org/2.7/howto/index.html)
 
-      http://www.pyregex.com/
+      (http://www.pyregex.com/)
