@@ -35,7 +35,7 @@ tags: [meeting]
 
     + Khoái: Đang học python, code được một số chương trình nhỏ, đã hoàn thành bài tập làm một mini-calculator với 2 phép tính cộng trừ.
 
-    + Huy: Đang tìm hiểu về python, đã từng học một chút khi tham gia website (http://brilliant.org/)
+    + Huy: Đang tìm hiểu về python, đã từng học một chút khi tham gia website [brilliant](http://brilliant.org)
 
     + Hùng: Đang tìm hiểu về python
 
@@ -46,9 +46,9 @@ tags: [meeting]
   - Github:
     + Cả nhóm đã tham gia một buổi training về git và github do anh Nam đứng lớp. Đã có thể tạo một repository demo để thực hành:
       
-      (https://github.com/khoaipx/15-06-guide)
+      [Thực hành của Khoái](https://github.com/khoaipx/15-06-guide)
 
-      (https://github.com/khoaipx/15-06-guide)
+      [Thực hành của Huy](https://github.com/Khuchuuhuy/15-06-guide)
 
     + Sẽ có tiếp một buổi training nữa vào tối thứ Hai, ngày 16/06/2014.
 
@@ -106,14 +106,14 @@ tags: [meeting]
 
   - Tổng hợp các tài liệu tham khảo trong quá trình training:
 
-      (http://www.diveintopython.net/toc/index.html)
+      [Dive into Python](http://www.diveintopython.net/toc/index.html)
 
-      (http://docs.python-guide.org/en/latest/)
+      [Python guide](http://docs.python-guide.org/en/latest/)
 
-      (https://docs.python.org/2.7/tutorial/index.html)
+      [Python 2.7 tutorial](https://docs.python.org/2.7/tutorial/index.html)
 
-      (https://docs.python.org/2.7/library/index.html)
+      [Python 2.7 library](https://docs.python.org/2.7/library/index.html)
 
-      (https://docs.python.org/2.7/howto/index.html)
+      [Python 2.7 HOWTO](https://docs.python.org/2.7/howto/index.html)
 
-      (http://www.pyregex.com/)
+      [Python regular expession](http://www.pyregex.com/)
