@@ -30,7 +30,7 @@ tags: [meeting]
 
 		+ Đã qua vòng xét loại hồ sơ và chính thức bắt đầu dự án.
 
-		+ Đã setup xong các kênh thông tin liên lạc( Group Mail, Facebook, Github).			
+		+ Đã setup xong các kênh thông tin liên lạc (Group Mail, Facebook, Github).			
 
 	- Lý do vì tuần trước lỡ hẹn với cả hai Mentor mọi thứ tiến triển chậm. 
 
@@ -56,9 +56,9 @@ tags: [meeting]
 
 	+ Hoàn thiện kiến thức về Python:
 
-		- Viết blog về Python( cảm nhận khi học python)- Hùng
+		- Viết blog về Python (cảm nhận khi học python)- Hùng
 
-		- Hoàn thiện cái máy tính với chức năng nhân chia(Huy), Log khai căn(Hùng), Xử lý dấu ngoặc giả sử 2*(3+4)=14(A.Khoái), Dateline(21/06/2014). 
+		- Hoàn thiện cái máy tính với chức năng nhân chia (Huy), Log khai căn (Hùng), Xử lý dấu ngoặc giả sử 2\*\(3+4\)\=14 (A.Khoái), Dateline 21/06/2014. 
 
 		- Anh Quân giao bài về List, Sets, Regular expression, Exception Handling.
 
