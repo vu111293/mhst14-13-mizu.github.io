@@ -39,9 +39,9 @@ tags: [meeting]
 
     + Hùng: Đang tìm hiểu về python
 
-  - Ubutu:
+  - Ubuntu:
 
-    Cả nhóm đã cài đặt Ubutu 14.04
+    Cả nhóm đã cài đặt Ubuntu 14.04
 
   - Github:
     + Cả nhóm đã tham gia một buổi training về git và github do anh Nam đứng lớp. Đã có thể tạo một repository demo để thực hành:
@@ -80,18 +80,12 @@ tags: [meeting]
 
 ```
 +8490902244:
-
      Doraemon.vcf
-
      Doremini.vcf
-
 +8498989833:
-
      Xuka.vcf
-
      Shizuka.vcf
-
-     Shizuka(1).vcf
+     Shizuka\(1\).vcf
 ```
 
   - Thảo luận về vấn đề Đồng bộ hóa của sản phẩm:
